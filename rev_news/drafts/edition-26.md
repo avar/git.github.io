@@ -163,7 +163,7 @@ The possibilities to write a wrapper script around gpg, to mimic the gpg
 API, and to filter the gpg output worried him too.
 
 Following all the above discussions Bernhard replied first to
-AEvar. He gave the requested information about the versions he has
+Ævar. He gave the requested information about the versions he has
 been using, and the error messages displayed when gpg accessed his
 "~/.gnupg/gpg.conf" that contains gpg2-only config options.
 
